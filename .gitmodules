@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "packHV"]
+	path = packHV
+	url = https://github.com/hvaret/packhv
+[submodule "survexp.fr"]
+	path = survexp.fr
+	url = https://github.com/hvaret/survexp.fr
